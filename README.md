@@ -222,7 +222,8 @@ cd Telecom-Customers-Churn-ML
 ## 👨‍💻 Author
 
 **Pavan Ahire**
-Aspiring Data Scientist | Machine Learning & Analytics Enthusiast
+
+- Aspiring Data Scientist | Machine Learning & Analytics Enthusiast
 - [🔗 GitHub](https://github.com/pavan-ahire)
 - [🔗 LinkedIn](https://www.linkedin.com/in/pavan-ahire-260940364/)
 
